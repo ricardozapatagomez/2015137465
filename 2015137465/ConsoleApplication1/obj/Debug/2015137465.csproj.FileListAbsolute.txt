@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.dll
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.pdb
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\2015137465.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

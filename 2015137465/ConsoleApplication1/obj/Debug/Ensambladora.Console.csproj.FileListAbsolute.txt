@@ -1,0 +1,32 @@
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Ensambladora.Entities.dll
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Ensambladora.Entities.pdb
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Ensambladora.Console.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Proyectos\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.dll
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.pdb
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\obj\Debug\Ensambladora.Console.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Proyectos\Visual Studio Projects\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.dll
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\practica\Ensambladora\ConsoleApplication1\obj\Debug\Ensambladora.Console.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.dll
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\bin\Debug\Ensambladora.Entities.pdb
+C:\Users\Ricardo\Desktop\Ensambladora\ConsoleApplication1\obj\Debug\Ensambladora.Console.csprojResolveAssemblyReference.cache
